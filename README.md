@@ -1,6 +1,8 @@
 # Experimental [V-core 1.3](https://www.ratrig.com/rat-rig-v-core-pro-upgrade-kit-from-v-core-pro-1-x-to-1-3.html) - [Recore A5](https://www.iagent.no/product/recore/) config
 ## WIP Klipper &amp; Fluidd config files for Recore A5 board on V-Core 1.3
 
+### Printing quite well already, no real tuning of pretty much anything yet (retract/acceleration/flow/pressure, etc).
+
 * Physical endstops (X on frame, Y on carriage/idler)
 * Bed
 	* Triple Z
@@ -13,4 +15,4 @@
 	* BMG with V6
 
 [Firmware retraction](https://www.klipper3d.org/Config_Reference.html#firmware_retraction) and [Arc](https://www.klipper3d.org/Config_Reference.html#gcode_arcs) enabled.
-Printing nicely, but no real tuning of yet (retract/acceleration/flow/pressure, etc).
+
