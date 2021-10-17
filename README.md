@@ -3,7 +3,7 @@
 
 ### Printing quite well already, no real tuning of pretty much anything yet (retract/acceleration/flow/pressure, etc).
 
-* Physical endstops (X on frame, Y on carriage/idler)
+* Physical endstops ([Y on frame](https://github.com/EVA-3D/easy-mod/blob/master/docs/stls/y_endstop.stl), [X on joiner](https://github.com/EVA-3D/easy-mod/pull/12))
 * Bed
 	* Triple Z
 	* Keenovo 230V heater
