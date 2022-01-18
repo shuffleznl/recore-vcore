@@ -1,5 +1,5 @@
 # Experimental [V-core 1.3](https://www.ratrig.com/rat-rig-v-core-pro-upgrade-kit-from-v-core-pro-1-x-to-1-3.html) - [Recore A5](https://www.iagent.no/product/recore/) config
-## WIP Klipper &amp; Fluidd config files for Recore A5 board on V-Core 1.3
+## WIP Klipper &amp; Mainsail config files for Recore A5 board on V-Core 1.3
 
 ### Printing quite well already, no real tuning of pretty much anything yet (retract/acceleration/flow/pressure, etc).
 Using some of RatRig's [RatOS](https://github.com/Rat-OS/ratos-configuration) defaults.
@@ -13,7 +13,7 @@ Using some of RatRig's [RatOS](https://github.com/Rat-OS/ratos-configuration) de
 
 [Firmware retraction](https://www.klipper3d.org/Config_Reference.html#firmware_retraction) and [Arc](https://www.klipper3d.org/Config_Reference.html#gcode_arcs) enabled.
 
-* Bed
+* Cast tooling plate bed
 	* Triple Z
 	* Keenovo 230V heater
 	* BLtouch
